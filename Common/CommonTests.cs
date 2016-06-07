@@ -35,7 +35,7 @@ namespace CommonTests
         [Test]
         public void CommonTest5()
         {
-            Assert.Equals(5, 5);
+            Assert.AreEqual(5, 5);
         }
     }
 }
