@@ -17,7 +17,7 @@ namespace CommonTests
         [Test]
         public void CommonTest2()
         {
-            Assert.AreEqual(2, 2);
+            Assert.AreEqual(2, 3);
         }
 
         [Test]
