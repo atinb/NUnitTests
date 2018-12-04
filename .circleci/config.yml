@@ -2,4 +2,6 @@ version: 2
 jobs:
   build:
     steps:
+      run:
+        name: building c#
     
