@@ -1,5 +1,4 @@
 version: 2
 jobs:
-
-general:
-  build_dir: client
+  build:
+    build_dir: client
